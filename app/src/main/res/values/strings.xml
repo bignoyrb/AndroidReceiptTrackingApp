@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Accordion</string>
+
+
+    <string name="action_settings">Settings</string>
+
+    <string name="camera_button"> Take Picture</string>
+    <string name="title_activity_login">Login</string>
+    <string name="report_button">View Expense Reports</string>
+    <string name="add_manually_button">Add Manually</string>
+    <string name="title_activity_pick">Accordion</string>
+</resources>

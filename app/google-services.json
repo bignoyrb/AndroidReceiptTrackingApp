@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "144339248372",
+    "firebase_url": "https://accordian-c7137.firebaseio.com",
+    "project_id": "accordian-c7137",
+    "storage_bucket": "accordian-c7137.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144339248372:android:f967d00614fc78bd",
+        "android_client_info": {
+          "package_name": "com.delaroystudios.camera"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "144339248372-g0sjarbamcku87ue6jnq2eeotfloj0bp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgPuSGLlM4Xo9VtyAecNQ_DOSILq23MKg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
